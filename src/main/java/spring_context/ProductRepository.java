@@ -22,8 +22,6 @@ public class ProductRepository {
                 new Product(5L, "Fish", 76)));
     }
 
-
-
     public List<Product> getRepository() {
         return repository;
     }
