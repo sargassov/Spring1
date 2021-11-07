@@ -51,7 +51,6 @@ public class Cart {
         System.out.println("Очищена корзина");
     }
 
-
     public void writeCartContains(){
 
         int count = 0;
